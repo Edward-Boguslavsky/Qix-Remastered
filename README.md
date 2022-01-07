@@ -8,14 +8,14 @@ The game is complete and a _.exe_ is coming soon
 
 ## Screenshots
 
-### Starting the Level
+### Starting a Level
 
 ![Level start](https://github.com/Edward-Boguslavsky/Qix-Remastered/blob/main/README/level_start.png?raw=true)
 
-### Progressing Through the Level
+### Progressing Through a Level
 
 ![Level progress](https://github.com/Edward-Boguslavsky/Qix-Remastered/blob/main/README/level_progress.png?raw=true)
 
-### Completing the Level
+### Completing a Level
 
 ![Level Win](https://github.com/Edward-Boguslavsky/Qix-Remastered/blob/main/README/level_win.png?raw=true)
