@@ -1,2 +1,21 @@
 # Qix Remastered
- The classic arcade game "Qix" remastered with tiles in Python
+
+As a team of 4, in only a month, we recreated the classic arcade game "Qix" with a modern tile and sprite system all in Python with the Pygame library. I was in charge of writing the game's more complex algorithms, organizing the code in an OOP format, and creating the sprites
+
+The game is complete and a _.exe_ is coming soon
+
+
+
+## Screenshots
+
+### Starting the Level
+
+![Level start](https://github.com/Edward-Boguslavsky/Qix-Remastered/blob/main/README/level_start.png?raw=true)
+
+### Progressing Through the Level
+
+![Level progress](https://github.com/Edward-Boguslavsky/Qix-Remastered/blob/main/README/level_progress.png?raw=true)
+
+### Completing the Level
+
+![Level Win](https://github.com/Edward-Boguslavsky/Qix-Remastered/blob/main/README/level_win.png?raw=true)
