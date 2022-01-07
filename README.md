@@ -1,8 +1,8 @@
 # Qix Remastered
 
-As a team of 4, in only a month, we recreated the classic arcade game "Qix" with a modern tile and sprite system all in Python with the Pygame library. I was in charge of writing the game's more complex algorithms, organizing the code in an OOP format, and creating the sprites
+As a team of 4, in only a month, we recreated the classic arcade game "Qix" with a modern tile and sprite system, all in Python with the Pygame library. I was in charge of writing the game's more complex algorithms, organizing the code in an OOP format, and creating the game's sprites
 
-The game is complete and a _.exe_ is coming soon
+The game is complete and a playable _.exe_ is coming soon
 
 
 
